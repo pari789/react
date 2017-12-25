@@ -10,9 +10,9 @@ __________________________________________________________________
    * To install react navigation run following command on Command Prompt:
       npm install --save react-navigation
       
-      To install Native Base:
+   * To install Native Base:
       npm install native-base --save
-      To install Vector icons
+   * To install Vector icons
       Run:  npm install react-native-vector-icons --save
       
  # Running:
