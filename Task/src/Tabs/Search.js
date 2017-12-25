@@ -10,7 +10,7 @@ export default class Search extends Component {
 
         <Header searchBar rounded style={{backgroundColor: 'white'}}>
           <Item>
-          <Button  transparent onPress={() => this.props.navigation.navigate(goBack())}>
+          <Button  transparent>
 
             <Icon name='arrow-back'/>
             </Button>
